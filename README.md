@@ -1,0 +1,1 @@
+Here is a header with function to reconstruct internal state of std::mt19937 (default C++ STL implementation of mersenne twister pseudo-random number generator) using 624 consecutive samples. The output is an std::mt19937 object with a state equal to the one used to generate the input. Based on https://github.com/kmyk/mersenne-twister-predictor
